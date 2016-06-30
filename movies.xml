@@ -1,0 +1,47 @@
+<movie_collection xmlns:collection="http://movies.com">
+	<movie id="1">
+		<title>Star Wars</title>
+		<description>
+			A Sci-fi fantasy 
+		</description>
+		<showtimes>
+			<showtime time="3pm" />
+			<showtime time="5:30pm" />
+			<showtime time="8pm" />
+		</showtimes>
+	</movie>
+	<movie id="2">
+		<title>Star Wars</title>
+		<description>
+			A Sci-fi fantasy 
+		</description>
+		<showtimes>
+			<showtime time="3pm" />
+			<showtime time="5:30pm" />
+			<showtime time="8pm" />
+		</showtimes>
+	</movie>
+	<movie id="3">
+		<title>Star Wars</title>
+		<description>
+			A Sci-fi fantasy 
+		</description>
+		<showtimes>
+			<showtime time="3pm" />
+			<showtime time="5:30pm" />
+			<showtime time="8pm" />
+		</showtimes>
+	</movie>
+	<movie id="4">
+		<title>Star Wars</title>
+		<description>
+			A Sci-fi fantasy 
+		</description>
+		<showtimes>
+			<showtime time="3pm" />
+			<showtime time="5:30pm" />
+			<showtime time="8pm" />
+		</showtimes>
+	</movie>
+
+</movie_collection>

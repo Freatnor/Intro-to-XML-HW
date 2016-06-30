@@ -146,9 +146,15 @@ Look at the following code/file and answer the questions below:
 ```
 
  1. How many elements does this xml file have?
+ 	8
  2. What is a namespace in this example?
+ 	xmlns:android="http://schemas.android.com/apk/res/android"
  3. Name parent and children elements.
+ 	manifest is the main parent, which is parent of activity and service. Activity is parent of intent-filter which is a parent of category. Service has no children. 
  4. Find and name empty elements (the ones that do not have content).
+ 	<activity android:name=".InformationActivity" />
+ 	<action android:name="android.intent.action.MAIN" />
+ 	<category android:name="android.intent.category.LAUNCHER" />
 
 
  ## One more Exercise
